@@ -1,0 +1,84 @@
+{
+  "MENU": "Menu",
+  "DASHBOARD": "Painel",
+  "DEVICES": "Dispositivos",
+  "GROUPS": "Grupos",
+  "GROUP": "Grupo",
+  "ALERTS": "Alertas",
+  "SERVICES": "Serviços",
+  "SETTINGS": "Configurações",
+  "BILLS": "Faturas",
+  "LOGS": "Registros",
+  "STATUS": {
+    "SUMMARY": "Sumário",
+    "GOOD": "Bom",
+    "BAD": "Ruim",
+    "DOWN": "Fora",
+    "IGNORED": "Ignorado",
+    "DISABLED": "Desabilitado",
+    "DEVICES": "Dispositivos Fora",
+    "TOTAL": "Total"
+  },
+  "TIMEFRAME": {
+    "DAY": "24 Horas",
+    "WEEK": "Semana",
+    "MONTH": "Mês",
+    "YEAR": "Ano"
+  },
+  "SNMP": {
+    "COMMUNITY": "Comunidade",
+    "TRANSPORT": "Transporte",
+    "PORT": "Porta",
+    "VERSION": "Versão",
+    "HOSTNAME": "Nome da máquina"
+  },
+  "DEVICE": {
+    "TABS": {
+      "OVERVIEW": "Visão geral",
+      "HEALTH": "Saúde",
+      "GRAPHS": "Gráficos",
+      "PORTS": "Portas",
+      "WIRELESS": "Sem fio"
+    },
+    "NOTES": "Notas",
+    "MORE": "Mais"
+  },
+  "MODAL": {
+    "DEVICE": {
+      "NEW": "Adicionar um novo dispositivo"
+    },
+    "SERVICE": {
+      "TYPE": "Tipo",
+      "DESC": "Descendente",
+      "IGNORE": "Ignorar",
+      "STATUS": "Estado",
+      "CHANGED": "Alterado",
+      "MESSAGE": "Mensagem",
+      "DISABLED": "Desabilitado"
+    }
+  },
+  "AUTH": {
+    "LOGIN": "Entrar",
+    "LOGOUT": "Sair",
+    "BASIC":  "Autenticação básica",
+    "USERNAME": "Usuário",
+    "PASSWORD": "Senha"
+  },
+  "SERVER": {
+    "ADD": "Adicionar um novo servidor",
+    "EDIT": "Editar um servidor",
+    "TOKEN": "Chave da API"
+  },
+
+  "GENERIC": {
+    "ADD": "Adicionar",
+    "CANCEL": "Cancelar",
+    "SAVE": "Salvar",
+    "REMOVE": "Remover",
+    "EDIT": "Editar",
+    "SEVERITY": "Gravidade",
+    "RULE": "Regra",
+    "TIMESTAMP": "Registro de data e hora",
+    "NAME": "Nome"
+  }
+}
